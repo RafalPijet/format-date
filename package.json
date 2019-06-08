@@ -1,0 +1,24 @@
+{
+  "name": "format-date",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js",
+    "test:watch": "mocha -w index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafalPijet/format-date.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafalPijet/format-date/issues"
+  },
+  "homepage": "https://github.com/RafalPijet/format-date#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
